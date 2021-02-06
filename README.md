@@ -1,6 +1,6 @@
 ### Hi there 👋
 🌱 I’m currently learning Data Structure and Algorithms to ace competitive programming
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=kushal-g&show_icons=true&hide=stars&count_private=true&theme=buefy" alt="kushal-g" /> </p>  
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=vibhutimishra&show_icons=true&hide=stars&count_private=true&theme=buefy" alt="vibhutimishra" /> </p>  
 
 <!--
 **vibhutimishra/vibhutimishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
